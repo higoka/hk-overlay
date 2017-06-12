@@ -1,0 +1,6 @@
+/*!
+ * Housekeeping Overlay
+ * https://github.com/tafelglotzer
+ */
+
+#hk-overlay{width:100%;height:100%;display:none;top:0;left:0;z-index:800;background:rgba(0,0,0,.75);position:fixed}#hk-overlay-button{font-weight:500;z-index:900;color:#fff;right:20px;bottom:20px;padding:10px;cursor:pointer;outline:0;border:none;border-radius:3px;background:#4CAF50;position:fixed;transition:background-color .2s ease-in-out}#hk-overlay-button:hover{background:#43A047}

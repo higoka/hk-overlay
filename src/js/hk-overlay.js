@@ -3,7 +3,7 @@
  * https://github.com/tafelglotzer
  */
 
- $(document).ready(function () {
+$(document).ready(function () {
     $('#hk-overlay-button').click(function () {
         $('#hk-overlay').slideToggle();
     });

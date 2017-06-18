@@ -1,4 +1,4 @@
-/*!
+/*
  * Housekeeping Overlay
  * https://github.com/tafelglotzer
  */
